@@ -37,3 +37,4 @@ C:\Users\Sebastian\source\repos\Asp_Project\Asp_Project\obj\Debug\netcoreapp3.1\
 C:\Users\Sebastian\source\repos\Asp_Project\Asp_Project\obj\Debug\netcoreapp3.1\Asp_Project.genruntimeconfig.cache
 C:\Users\Sebastian\source\repos\Asp_Project\Asp_Project\obj\Debug\netcoreapp3.1\Asp_Project.csproj.CopyComplete
 C:\Users\Sebastian\source\repos\Asp_Project\Asp_Project\obj\Debug\netcoreapp3.1\Razor\Views\Company\CompanyAdded.cshtml.g.cs
+C:\Users\Sebastian\source\repos\Asp_Project\Asp_Project\obj\Debug\netcoreapp3.1\Razor\Views\Company\IndexAjax.cshtml.g.cs
