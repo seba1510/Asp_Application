@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.EntityFrameworkCore;
+using Asp_Project.DataBase;
 
 namespace Asp_Project
 {
@@ -22,6 +24,11 @@ namespace Asp_Project
 		// This method gets called by the runtime. Use this method to add services to the container.
 		public void ConfigureServices(IServiceCollection services)
 		{
+			services.AddDbContext<ExchangesDbContext>(options =>
+			{
+				options.UseSqlServer(Configuration.GetConnectionString("Asp_Project"));
+			});
+
 			services.AddControllersWithViews();
 		}
 
