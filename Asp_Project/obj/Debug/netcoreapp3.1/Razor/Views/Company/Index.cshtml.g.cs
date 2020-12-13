@@ -27,7 +27,7 @@ using Asp_Project.Models;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"4ad6a13626a8497a5af8d9cb8a9d784d955ad0a4", @"/Views/Company/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7bd3a4d30eca505d618b0db1eeb739f06da697cf", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"505615a7c819e4b2ff234627734b18cab93b7132", @"/Views/_ViewImports.cshtml")]
     public class Views_Company_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<CompanyModel>
     {
         #pragma warning disable 1998
